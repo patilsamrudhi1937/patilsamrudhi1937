@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @patilsamrudhi1937
+- 👋 Hi, I’m Samrudhi Patil
 - 👀 I’m interested in HTML,CSS, JavaScript, Python
 I am learning the Machine Learning and Data Analytics
 <!---
